@@ -5,7 +5,6 @@ def load_and_prep_image(filename, img_shape=224, scale=True):
   """
   Reads in an image from filename, turns it into a tensor and reshapes into
   (224, 224, 3).
-
   Parameters
   ----------
   filename (str): string filename of target image
