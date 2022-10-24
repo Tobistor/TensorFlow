@@ -1,1 +1,1 @@
-This contains some predefined functions which I often find useful. Storing it here mitigates repetitive effort during Deep Learning tasks.
+This contains some predefined functions which I often find useful. Storing it here mitigates repetitive effort during Deep Learning tasks. It contains functions for TensorBoard Callback, images prep and plot etc.
